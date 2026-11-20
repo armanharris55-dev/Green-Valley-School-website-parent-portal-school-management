@@ -1,0 +1,7 @@
+# secrets / machine-specific — never commit
+api/config.php
+api/.installed
+# misc
+.DS_Store
+node_modules/
+*.log
